@@ -19,20 +19,21 @@ Contents:
    tutorial
    developers
    howto
-   gui_doc
+   benchmark
    projects
    add_doc
    add_soft
-   photrack
+   gui_doc
+   downloads_page
+
+   
+
    
 API:
 
 .. toctree::
    :maxdepth: 2
 
-   code
-   api_reference
-   downloads_page
    
 
    
