@@ -107,7 +107,7 @@ If you choose not to calculate the derivatives, the n_trajPoint.* files columns 
 If you calculate derivatives, the output of n_trajPoint.* files is::
 
 	1  2  3    4  5  6    7   8   9   10  11  12    13   14   15   16   17   18    19  20  21     22     23     24     25     26     27     28     29     30          31                      32
-	xp yp zp  up vp wp   axp ayp azp  w1p w2p w3p  s11p s12p s13p s22p s23p s33p   tup vtp wtp  daxdxp daxdyp daxdzp daydxp daydyp daydzp dazdxp dazdyp dazdzp quality(0=good,1=bad) steps_along_trajectory                                   step
+	xp yp zp  up vp wp   axp ayp azp  w1p w2p w3p  s11p s12p s13p s22p s23p s33p   tup vtp wtp  daxdxp daxdyp daxdzp daydxp daydyp daydzp dazdxp dazdyp dazdzp quality(0=good,1=bad) steps_along_trajectory
 
 xuag.*::
 
